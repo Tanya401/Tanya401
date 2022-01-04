@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning and contributing
 - 🌱 I’m currently working on my problem solving skills
 - 💞️ I’m looking forward to learn and grow
+- 🌸 You can reach me at:
+[LinkedIn](https://www.linkedin.com/in/tanya-ahuja-813051203/)
 
 
 <!---
