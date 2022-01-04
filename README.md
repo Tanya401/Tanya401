@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanya Ahuja
 - 👀 I’m interested in learning and contributing
-- 🌱 I’m currently wokring on problem solving skills
+- 🌱 I’m currently working on my problem solving skills
 - 💞️ I’m looking forward to learn and grow
 
 
