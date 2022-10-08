@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanya Ahuja</h1>
+<h1 align="center">Hi 😃, I'm Tanya Ahuja</h1>
 <h3 align="center">An enthusiastic developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya401&label=Profile%20views&color=0e75b6&style=flat" alt="tanya401" /> </p>
