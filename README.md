@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently making **myself better**
 
 - 💬 Ask me about **Android development, Frontend, Problem Solving and Women Empowerment.**
 
