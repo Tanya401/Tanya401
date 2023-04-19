@@ -19,9 +19,8 @@
 <a href="https://linkedin.com/in/tanya-ahuja-813051203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-ahuja-813051203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tanya-ahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanya-ahuja" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanya_1526" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanya_1526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanya_ahuja_20c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanya_ahuja_20c1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanya_ahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanya_ahuja" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tanyaahuja20cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanyaahuja20cse" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanya_ahuja_20c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanya_ahuja_20c1" height="30" width="40" /></a
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
